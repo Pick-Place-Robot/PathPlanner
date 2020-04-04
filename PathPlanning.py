@@ -7,8 +7,8 @@ import scipy.io
 
 #%matplotlib qt
 master = Tk()
-master.wm_iconbitmap('D:\\SVN\\CS_Robot_Project\\trunk\\Python_Scripts\\Final_Code\\ArduinoCodeGenerator.ico')
-master.iconbitmap('D:\\SVN\\CS_Robot_Project\\trunk\\Python_Scripts\\Final_Code\\ArduinoCodeGenerator.ico')
+master.wm_iconbitmap('ArduinoCodeGenerator.ico')
+master.iconbitmap('ArduinoCodeGenerator.ico')
 master.geometry("1000x700")
 master.title("Interpolation function")
 #master = Frame(root)
