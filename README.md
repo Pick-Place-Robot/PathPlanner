@@ -1,5 +1,11 @@
-# PathPlanner
+# Path Planner
 Python GUI for path planning
+## Requirements
+* Matplotlib : Version '2.2.3' (Code :  import matplotlib; matplotlib.\_\_version\_\_) : Most Important library make sure version is same else error would be thrown. Code for installation : pip uninstall matplotlib , pip install -I matplotlib==2.2.3
+* Numpy : Version : '1.16.4' (Code :  import numpy; numpy.\_\_version\_\_)
+* Tkinter : Version : '8.6' (Code :  import tkinter; tkinter.TkVersion)
+* Sympy : Version : '1.4' (Code :  import sympy; sympy.\_\_version\_\_)
+## Code Structure
 * All files corresponding to the .py, .ipynb extension are the code files. The .pkl file is the saved path file which can be opened using the GUI.
 * PathPlanning.py file is the main file which need to be run. Upon running this file a GUI would open.
 * Clicking on the File/Open menu, selecting the path file will load the points into the GUI.
