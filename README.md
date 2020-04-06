@@ -17,11 +17,11 @@ Below is the GUI that appears when pathplanning.py is executed. The default posi
 
 Clicking on x/y/z-position labels will force the cursor back to home position. The points can be added, updated and deleted until desried path is accomplished. Radius can be added to corners to smoothen motion as displayed in the image below.<br>
 <p align="center">
- <img src = "img/Radius.PNG" width="300"> <br></p> 
+ <img src = "img/Radius.PNG" width="400"> <br></p> 
  
 
  Finally clicking on generate path would display generate the path and display infeasible paths if any on the UI as hown below.<br>
   <p align="center">
- <img src = "img/GenPath.PNG" width="300"> <br></p> 
+ <img src = "img/GenPath.PNG" width="400"> <br></p> 
  
  Now you can save your file by clicking File/Saveas, this would generate 2 files (1 \*.mat file, 1 \*.pkl file), one for the simulink model workspace, the other for the GUI.
