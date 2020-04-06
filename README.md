@@ -9,3 +9,7 @@ Python GUI for path planning
 * All files corresponding to the .py, .ipynb extension are the code files. The .pkl file is the saved path file which can be opened using the GUI.
 * PathPlanning.py file is the main file which need to be run. Upon running this file a GUI would open.
 * Clicking on the File/Open menu, selecting the path file will load the points into the GUI.
+## User Interface
+Below is the GUI that appears when pathplanning.py is executed. The default position of the cursor is the home position. As the slider is moved beyond the workspace of the robot the cursor becomes red as can be seen below. <br>
+<img src = "img/UI.PNG" width="500">
+<!-- ![](img/UI.PNG)-->
