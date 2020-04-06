@@ -15,7 +15,7 @@ Below is the GUI that appears when pathplanning.py is executed. The default posi
  <img src = "img/UI.PNG" width="300">     <img src = "img/OutsideWorkspace.PNG" width="300"><br> </p> 
 <!-- ![](img/UI.PNG)-->
 
-Clicking x/y/z-position will force the cursor back to home position. The points can be added, updated deleted until desried path is accomplished. Radius can be added to corners to smoothen motion as displayed in the image below.<br>
+Clicking on x/y/z-position labels will force the cursor back to home position. The points can be added, updated and deleted until desried path is accomplished. Radius can be added to corners to smoothen motion as displayed in the image below.<br>
 <p align="center">
  <img src = "img/Radius.PNG" width="300"> <br></p> 
  
