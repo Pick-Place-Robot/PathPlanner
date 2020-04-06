@@ -11,5 +11,7 @@ Python GUI for path planning
 * Clicking on the File/Open menu, selecting the path file will load the points into the GUI.
 ## User Interface
 Below is the GUI that appears when pathplanning.py is executed. The default position of the cursor is the home position. As the slider is moved beyond the workspace of the robot the cursor becomes red as can be seen below. <br>
-<img src = "img/UI.PNG" width="500">
+
+ <img src = "img/UI.PNG" width="300">     <img src = "img/OutsideWorkspace.PNG" width="300"><br>  
+
 <!-- ![](img/UI.PNG)-->
