@@ -23,3 +23,5 @@ Clicking x/y/z-position will force the cursor back to home position. The points 
  Finally clicking on generate path would display generate the path and display infeasible paths if any on the UI as hown below.<br>
   <p align="center">
  <img src = "img/GenPath.PNG" width="300"> <br></p> 
+ 
+ Now you can save your file by clicking File/Saveas, this would generate 2 files (1 \*.mat file, 1 \*.pkl file), one for the simulink model workspace, the other for the GUI.
